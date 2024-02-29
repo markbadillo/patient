@@ -26,7 +26,7 @@ Physicians can be overwhelmed by the amount of patient information presented to 
   Drawer overlays may cover a portion of the main content temporarily. This design decision prioritizes a seamless note-taking experience without disrupting the overall user flow.
 
 ## Public Url
-
+https://main--elaborate-malasada-be0b10.netlify.app/
 
 ### Install dependencies
 
