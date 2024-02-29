@@ -56,6 +56,7 @@ const AddNoteDrawer = (props) => {
       formik.resetForm();
       formik.setTouched({}, false);
     }
+    // eslint-disable-next-line
   }, [open]);
 
   const startDateTime = dayjs(formik.values.start);
