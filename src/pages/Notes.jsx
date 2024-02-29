@@ -100,6 +100,7 @@ const Notes = () => {
       return idx === Number(id);
     });
     return statePatient;
+    // eslint-disable-next-line
   }, [patientsData, id]);
 
   const [patientNote, setPatientNote] = useState([]);
